@@ -1,0 +1,7 @@
+.navbar .container-fluid {
+    display: flex;
+    justify-content: center;
+}
+.navbar .d-flex {
+    width: 50%;
+}
